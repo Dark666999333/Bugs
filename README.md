@@ -1,2 +1,2 @@
-# Bugs
-Report bugs via issues here
+# Report
+
